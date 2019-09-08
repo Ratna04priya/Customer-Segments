@@ -6,8 +6,8 @@ Various algoruthms are tested on the dataset.
 Results are displayed and plotted.
 
 ### Library Used
-> Numpy
-> Pandas
+> 1. Numpy
+> 2. Pandas
 > seaborn
 > IPython.display
 > Matplotlib
