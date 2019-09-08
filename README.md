@@ -6,12 +6,13 @@ Various algoruthms are tested on the dataset.
 Results are displayed and plotted.
 
 ### Library Used
-> 1. Numpy
-> 2. Pandas
-> seaborn
-> IPython.display
-> Matplotlib
-> Visuals
+> 1. Sklearn
+> 2. Numpy
+> 3. Pandas
+> 4. seaborn
+> 5. Matplotlib
+> 6. IPython.display
+> 7. Visuals
 
 ### Terminologies Applied
 >
