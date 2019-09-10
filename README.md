@@ -14,3 +14,4 @@ Results are displayed and plotted.
 > 6. IPython.display
 > 7. Visuals
 
+
